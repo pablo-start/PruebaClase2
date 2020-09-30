@@ -19,6 +19,7 @@ public class Prueba1 {
         System.out.println("Pablo");
         System.out.println("Diaz Jimena Modifico");
         System.out.printl("Abril Gutiérrez colaboró");
+        System.out.printl("Alan Cristian Martinez Genaro");
     }
     
 }
