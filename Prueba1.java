@@ -15,7 +15,6 @@ public class Prueba1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Daniela");
         System.out.println("Pablo");
         System.out.println("Diaz Jimena Modifico");
         System.out.printl("Abril Gutiérrez colaboró");
