@@ -22,6 +22,7 @@ public class Prueba1 {
         System.out.printl("Mario aportó");
         System.out.printl("Andrés Hernandez");
         System.out.printl("Joel Peña :3");
+        System.out.printl("Hola Gamer juguemos League of Legends");
     }
     
 }
