@@ -25,6 +25,7 @@ public class Prueba1 {
         System.out.printl("Hola Gamer juguemos League of Legends");
         System.out.printl("Hola de nuevo");
         System.out.printl("Hola Danny");
+        System.out.printl("Hola Rommy");
     }
     
 }
